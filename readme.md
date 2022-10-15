@@ -1,2 +1,3 @@
 # Screenshots
-![https://www.rlogical.com/wp-content/uploads/2019/05/android.png](https://www.rlogical.com/wp-content/uploads/2019/05/android.png)
+![Screenshot](https://i.imgur.com/zLdsHqy.jpg)
+![Screenshot2](https://i.imgur.com/jiUmnau.jpg)
